@@ -1,0 +1,5 @@
+package io.github.polly1515.vendasapi.rest.produtos;
+
+public class ProdutoFormRequest {
+
+}
